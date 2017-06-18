@@ -49,10 +49,10 @@ Visit Dashboard [Power Pi](http://knapsacks.github.io/power-pi/) for Power Savin
 ### Screenshots
 
 
-![Power-Pi App] (https://github.com/Knapsacks/power-pi-v2/blob/master/resources/photo6210665655573784521.jpg)
+![Power-Pi App](power-pi-v2/resources/photo6210665655573784521.jpg)
 
 
-![Power-Pi-FB-Bot] (https://github.com/Knapsacks/power-pi-v2/blob/master/resources/Screen_Shot_2017-06-18_at_10_30_12.png)
+![Power-Pi-FB-Bot](power-pi-v2/resources/Screen_Shot_2017-06-18_at_10_30_12.png)
 
 
-![Power-Pi-Linux-Deamon] (https://github.com/Knapsacks/power-pi-v2/blob/master/resources/photo6210665655573784520.jpg)
+![Power-Pi-Linux-Deamon](power-pi-v2/resources/photo6210665655573784520.jpg)
