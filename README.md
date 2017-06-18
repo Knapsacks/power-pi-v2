@@ -44,3 +44,15 @@ On a macroscopic scale, such taken for granted tiny idling load accounts for eno
 
 Visit Dashboard [Power Pi](http://knapsacks.github.io/power-pi/) for Power Saving Analysis
 (default username and password is 'admin' & 'admin' respectively)
+
+
+### Screenshots
+
+
+![Power-Pi App] (https://github.com/Knapsacks/power-pi-v2/blob/master/resources/photo6210665655573784521.jpg)
+
+
+![Power-Pi-FB-Bot] (https://github.com/Knapsacks/power-pi-v2/blob/master/resources/Screen_Shot_2017-06-18_at_10_30_12.png)
+
+
+![Power-Pi-Linux-Deamon] (https://github.com/Knapsacks/power-pi-v2/blob/master/resources/photo6210665655573784520.jpg)
